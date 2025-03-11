@@ -4,7 +4,7 @@
 <img src="allo-icon.png" width=128/> Tutorials
 ==============================================================================
 
-[Allo](https://github.com/cornell-zhang/allo) is a Python-embedded Accelerator Design Language (ADL) and compiler that facilitates the construction of large-scale, high-performance hardware accelerators in a modular and composable manner. The related paper was published in [PLDI 2024](https://dl.acm.org/doi/10.1145/3656401).
+[Allo](https://github.com/cornell-zhang/allo) is a Python-embedded Accelerator Design Language (ADL) and compiler that facilitates the construction of large-scale, high-performance hardware accelerators in a modular and composable manner. The related paper was published in [PLDI 2024](https://dl.acm.org/doi/10.1145/3656401). Please refer to our [main reporitory](https://github.com/cornell-zhang/allo) for more details.
 
 This repository contains presentation materials for all conference, workshop, and tutorials.
 
